@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 3243-A50B
+
+ Directory of D:\ABC
+
+01-12-2018  13:01    <DIR>          .
+01-12-2018  13:01    <DIR>          ..
+01-12-2018  13:01                 0 data.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  236,546,240,512 bytes free
+Hey Ayush!!!
+From Danish.
